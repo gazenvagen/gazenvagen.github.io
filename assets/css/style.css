@@ -284,6 +284,7 @@ hr {
     padding: 3%;
     color: white;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .send_contact input[type="text"] {
